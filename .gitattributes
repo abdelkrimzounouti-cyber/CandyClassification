@@ -1,0 +1,10 @@
+dataset/classification/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset/classification/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+dataset/classification_multitask/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset/classification_multitask/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+dataset/classification/**/*.JPG filter=lfs diff=lfs merge=lfs -text
+dataset/classification/**/*.JPEG filter=lfs diff=lfs merge=lfs -text
+dataset/classification_multitask/**/*.JPG filter=lfs diff=lfs merge=lfs -text
+dataset/classification_multitask/**/*.JPEG filter=lfs diff=lfs merge=lfs -text
+dataset/classification_split_v2/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset/classification_split_v2/**/*.JPG filter=lfs diff=lfs merge=lfs -text
