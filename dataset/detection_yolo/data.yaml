@@ -1,0 +1,11 @@
+path: /home/karim/Documents/CandyClassification/dataset/detection_yolo
+train: images/train
+val: images/val
+
+names:
+  0: crocodile
+  1: dragibus
+  2: fraise
+  3: oufe
+  4: ourson
+  5: schtroumpf

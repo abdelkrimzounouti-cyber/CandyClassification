@@ -80,7 +80,7 @@ with torch.no_grad():
 
     for i in range(1, 13):
 
-        image_name = f'test{i}.jpg'
+        image_name = f'test{i}.jpeg'
         image_path = os.path.join(TEST_DIR, image_name)
 
         if not os.path.exists(image_path):
